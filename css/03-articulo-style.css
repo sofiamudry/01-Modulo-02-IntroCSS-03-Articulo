@@ -1,0 +1,23 @@
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 60px;
+}
+
+h2 {
+    color: gray;
+    font-family: monospace;
+}
+
+a {
+    color: cadetblue;
+    text-decoration: none;
+    font-family: monospace;
+}
+
+p {
+    font-family: monospace;
+}
+
+#parrafo-distintivo {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
